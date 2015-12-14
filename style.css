@@ -1,3 +1,28 @@
 body {
   background-color:#FF0000;
 }
+
+
+#one {
+  width: 150px;
+  height: 100px;
+  background-color: #000;
+}
+
+#two {
+  width: 100px;
+  height: 200px;
+  background-color: #fff;
+}
+
+#three {
+  width: 100px;
+  height: 100px;
+  background-color: #000;
+}
+
+#one {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
+}
