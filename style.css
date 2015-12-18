@@ -21,21 +21,19 @@ body {
   background-color: #000;
 }
 
-#four {
-  width: 20px;
-  height: 20px;
-  background-color: #fff;
-}
-
 div {
   float: left;
 }
 
 div {
-  position:relative;
+  float: none;
+  position:absolute;
 }
 
 #four {
+  width: 20px;
+  height: 20px;
+  background-color: #fff;
   top: 70px;
   left: -30px;
 }
